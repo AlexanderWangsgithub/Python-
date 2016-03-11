@@ -4,7 +4,7 @@
 ###Destination:
 this script is used to define word in terminal 
 ###install:
-wget https://github.com/AlexanderWangsgithub/Python-/blob/master/define.py
+wget https://github.com/AlexanderWangsgithub/Python-/blob/master/define.py\t
 sudo mv ./define.py /usr/bin/de
 sudo chmod 755 /usr/bin/de
 ###use:
