@@ -3,8 +3,8 @@
 ##define.py
 ###Destination:
 this script is used to define word in terminal 
-###nstall:
-wget[https://github.com/AlexanderWangsgithub/Python-/blob/master/define.py]
+###install:
+wget https://github.com/AlexanderWangsgithub/Python-/blob/master/define.py
 sudo mv ./define.py /usr/bin/de
 sudo chmod 755 /usr/bin/de
 ###use:
