@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 
+# General
+.DS_Store
+.cache
+venv
+.idea
+
 # C extensions
 *.so
 
