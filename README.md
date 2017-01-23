@@ -4,7 +4,7 @@
 ##define.py
 终端查字典工具
 ###Destination:
-this script is used to define word in terminal 
+this script is used to define word in terminal
 ###nstall:
 wget[https://github.com/AlexanderWangsgithub/Python-/blob/master/define.py]
 sudo mv ./define.py /usr/bin/de
